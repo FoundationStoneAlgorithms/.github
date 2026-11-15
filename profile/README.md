@@ -32,4 +32,11 @@ Based in **Uganda**.
 
 ---
 
+## Company
+
+**FoundationStone Algorithms Limited**  
+Company Registration No. `80042240898972`
+
+---
+
 © FoundationStone Algorithms Limited
