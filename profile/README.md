@@ -32,18 +32,4 @@ Based in **Uganda**.
 
 ---
 
-## Open source & tools
-
-Public work under this organisation includes agent tooling, execution environments, and related systems:
-
-- [agent-desktop](https://github.com/FoundationStoneAlgorithms/agent-desktop) — computer-use CLI for AI agents
-- [rea](https://github.com/FoundationStoneAlgorithms/rea) — reverse engineer anything with agents
-- [VoiceStudio](https://github.com/FoundationStoneAlgorithms/VoiceStudio) — fully-local voice cloning, design, and transcription
-- [logos-execution-zone](https://github.com/FoundationStoneAlgorithms/logos-execution-zone) — Logos Execution Environment & first LEZ
-- [logos-blockchain](https://github.com/FoundationStoneAlgorithms/logos-blockchain) — Logos blockchain node
-- [lez-programs](https://github.com/FoundationStoneAlgorithms/lez-programs) — essential programs for the Logos Execution Zone
-- [bolt.diy](https://github.com/FoundationStoneAlgorithms/bolt.diy) — prompt, run, edit, and deploy full-stack apps with any LLM
-
----
-
 © FoundationStone Algorithms Limited
