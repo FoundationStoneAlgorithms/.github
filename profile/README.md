@@ -6,9 +6,7 @@
 
 **Intelligent Systems Studio — custom software for complex business needs.**
 
-[![Website](https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.foundationstonealgorithms.shop)
-[![X](https://img.shields.io/badge/%40fsalgorithm-181717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fsalgorithm)
-[![Start a Project](https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge)](https://www.foundationstonealgorithms.shop/services)
+<a href="https://www.foundationstonealgorithms.shop"><img src="https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="42"></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/fsalgorithm"><img src="https://img.shields.io/badge/%40fsalgorithm-181717?style=for-the-badge&logo=x&logoColor=white" alt="X" height="42"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.foundationstonealgorithms.shop/services"><img src="https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge" alt="Start a Project" height="42"></a>
 
 </div>
 
@@ -34,7 +32,7 @@ Every engagement is a custom quote. Tell us what your business needs and receive
 
 <div align="center">
 
-[![Start a Project](https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge)](https://www.foundationstonealgorithms.shop/services)
+<a href="https://www.foundationstonealgorithms.shop/services"><img src="https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge" alt="Start a Project" height="42"></a>
 
 </div>
 
@@ -47,10 +45,10 @@ Copyright © 2026 FoundationStone Algorithms Limited. All rights reserved. Propr
 
 ---
 
+<br>
+
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.foundationstonealgorithms.shop)
-[![X](https://img.shields.io/badge/%40fsalgorithm-181717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fsalgorithm)
-[![Start a Project](https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge)](https://www.foundationstonealgorithms.shop/services)
+<a href="https://www.foundationstonealgorithms.shop"><img src="https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="42"></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/fsalgorithm"><img src="https://img.shields.io/badge/%40fsalgorithm-181717?style=for-the-badge&logo=x&logoColor=white" alt="X" height="42"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.foundationstonealgorithms.shop/services"><img src="https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge" alt="Start a Project" height="42"></a>
 
 </div>
