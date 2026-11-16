@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/assets/logo-512.png" alt="Foundation Stone Algorithms logo" width="140" />
+<img src="https://raw.githubusercontent.com/FoundationStoneAlgorithms/.github/main/profile/assets/logo-512.png" alt="Foundation Stone Algorithms logo" width="140" />
 
 # Foundation Stone Algorithms
 
@@ -34,7 +34,7 @@ Every engagement is a custom quote. Tell us what your business needs and receive
 
 <div align="center">
 
-**[Start a project →](https://www.foundationstonealgorithms.shop/services)**
+[![Start a Project](https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge)](https://www.foundationstonealgorithms.shop/services)
 
 </div>
 
@@ -49,6 +49,8 @@ Copyright © 2026 FoundationStone Algorithms Limited. All rights reserved. Propr
 
 <div align="center">
 
-[Website](https://www.foundationstonealgorithms.shop) · [Start a Project](https://www.foundationstonealgorithms.shop/services) · [X](https://x.com/fsalgorithm)
+[![Website](https://img.shields.io/badge/Website-foundationstonealgorithms.shop-2b3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.foundationstonealgorithms.shop)
+[![X](https://img.shields.io/badge/%40fsalgorithm-181717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fsalgorithm)
+[![Start a Project](https://img.shields.io/badge/🚀_Start_a_Project-2ea043?style=for-the-badge)](https://www.foundationstonealgorithms.shop/services)
 
 </div>
